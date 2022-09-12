@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    height: 100vh;
+    background-color: red;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
